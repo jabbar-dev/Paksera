@@ -9,4 +9,6 @@ For the Live Preview of Website visit: www.learniumschool.com
 
 <h2>Database Schema:</h2>
 <img src="http://learniumschool.com/wp-content/uploads/2020/08/0001.jpg">
-
+<br><br>
+<h2> Homepage of Paksera Website </h2>
+<img src = "http://learniumschool.com/wp-content/uploads/2020/08/paksera-homepage.png">
